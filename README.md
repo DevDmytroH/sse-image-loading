@@ -1,27 +1,55 @@
-# SseImageLoading
+# SSE Images Handling Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+## Overview
+This project focuses on dynamically handling Server-Sent Events (SSE) images. It demonstrates the ability to render images dynamically based on SSE updates, determine dimensions, implement forms, handle errors, follow clean code practices, and optimize performance.
 
-## Development server
+## Demo
+![Demo](https://i.ibb.co/GkfgtQk/ezgif-com-gif-maker-1.gif)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Check out the [deployed version](https://d1930qqwv6klsc.cloudfront.net/) for a live demonstration.
 
-## Code scaffolding
+## Installation
+Follow these steps to get the project up and running:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Clone the repository:
+```
+git clone
+```
+2. Navigate to the project directory:
+```
+cd sse-image-loading
+```
 
-## Build
+3. Install dependencies:
+```
+npm install
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+4. Serve the application:
+```
+npm start
+```
 
-## Running unit tests
+5. Open your browser and navigate to `http://localhost:4200` to see the app in action.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Done tasks
+- [x] SSE Handling
+- [x] Dynamically Rendering Images
+- [x] Form Implementation
+- [x] Error Handling
+- [x] Dimensions Calculation
+- [x] Clean Code Practices
+- [x] Performance Optimization
+- [x] AWS CloudFront Deployment
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Used technologies
+* [Angular](https://angular.io/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [CloudFront](https://aws.amazon.com/cloudfront/)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Drop me a line
+Feel free to contact me for any inquiries or suggestions: 
+[Email](mailto:dev.dmytro.horkun@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vspominay/)
