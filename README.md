@@ -4,7 +4,7 @@
 This project focuses on dynamically handling Server-Sent Events (SSE) images. It demonstrates the ability to render images dynamically based on SSE updates, determine dimensions, implement forms, handle errors, follow clean code practices, and optimize performance.
 
 ## Demo
-![Demo](https://i.ibb.co/GkfgtQk/ezgif-com-gif-maker-1.gif)
+![Demo](https://i.ibb.co/xs0vPrn/ezgif-com-gif-maker-1.gif)
 
 Check out the [deployed version](https://d1930qqwv6klsc.cloudfront.net/) for a live demonstration.
 
